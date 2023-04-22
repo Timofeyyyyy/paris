@@ -231,9 +231,7 @@
     width: 600px;
     margin: 0 auto;
   }
-  .language_wrapper {
-    display: none;
-  }
+
   .social-block-wrapper {
     display: none;
   }
@@ -717,6 +715,9 @@
   .container {
     width: 300px;
     margin: 0 auto;
+  }
+  .language_wrapper {
+    margin-left: 20px;
   }
   .main-subtitle {
     font-family: "Orkney";
