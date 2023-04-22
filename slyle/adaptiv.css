@@ -708,6 +708,11 @@
     justify-content: center;
   }
 }
+@media (max-width: 460px) {
+  .first_slide {
+    margin-bottom: 500px;
+  }
+}
 @media (max-width: 400px) {
   .container {
     width: 300px;
@@ -787,5 +792,8 @@
     width: 300px;
     display: flex;
     justify-content: center;
+  }
+  .first_slide {
+    margin-bottom: 470px;
   }
 }
